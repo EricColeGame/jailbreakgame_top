@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "Jailbreak Wiki",
-    "shortName": "Jailbreak",
+    "name": "Jailbreakgame Wiki",
+    "shortName": "Jailbreakgame",
     "tagline": "Complete Guides, Codes, Vehicles & Heists",
-    "description": "Complete Jailbreak Wiki with Roblox codes, vehicle guides, heist strategies, police and criminal tips, updates, maps, and gameplay information for players.",
+    "description": "Complete Jailbreakgame Wiki with Roblox codes, vehicle guides, heist strategies, police and criminal tips, updates, maps, and gameplay information for players.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {},
@@ -34,106 +34,100 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your Jailbreak Journey",
+      "title": "Your Jailbreakgame Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn basic controls, escape the prison yard, understand radar pings, and start earning cash in Jailbreakgame."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Prisoner vs Police",
+          "description": "Choose between pulling off high-stakes heists as a Criminal or arresting fugitives and earning bounties as Police."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Heist Routes",
+          "description": "Optimize your cash grinding loop by rotating through the Bank, Jewelry Store, Museum, and Power Plant."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Jailbreak."
+          "title": "All Working Codes",
+          "description": "Redeem active promo codes at city ATM terminals to claim instant bonus cash and exclusive vehicle cosmetics."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Jailbreakgame Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Active Codes",
+        "Vehicle Tier List",
+        "Heist Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Learn basic controls, escape routes, and early cash progression.",
+          "href": "/guide/jailbreakgame-beginner-guide"
         },
         {
-          "badge": "Updated",
+          "badge": "Codes",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "All working promo codes for free cash and vehicle cosmetics.",
+          "href": "/codes/jailbreakgame-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Vehicles",
+          "title": "Vehicle Tier List",
+          "description": "Top speed, acceleration, and grinding value rankings for all rides.",
+          "href": "/progression/jailbreakgame-tier-list"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Heists",
+          "title": "Robberies & Heists",
+          "description": "Complete breakdown of bank, jewelry, power plant, and museum payouts.",
+          "href": "/mechanics/jailbreakgame-heist"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Weapons",
+          "title": "Weapons Guide",
+          "description": "Stats, burst damage, and combat tiers for all firearms.",
+          "href": "/items/jailbreakgame-weapons"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Updates",
+          "title": "Latest Updates",
+          "description": "Seasonal rewards, balance changes, and new features.",
+          "href": "/progression/jailbreakgame-update"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Maps",
+          "title": "Map & Locations",
+          "description": "Explore city landmarks, criminal hideouts, and military outposts.",
+          "href": "/maps/jailbreakgame-map"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Community",
+          "title": "Community & Reddit",
+          "description": "Trading values, tips, and discussion from veteran players.",
+          "href": "/guide/jailbreakgame-reddit"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is Jailbreak?",
+      "title": "What is Jailbreakgame?",
       "paragraphs": [
-        "Jailbreak is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Jailbreakgame is an iconic open-world cops-and-robbers action experience on Roblox created by Badimo. Players dive into a dynamic living city where they can choose their allegiance as law-abiding Police Officers or daring Criminals. Plan high-stakes bank robberies, dodge complex laser defense grids, evade high-speed pursuits, or uphold justice by intercepting heists and arresting wanted fugitives across an expansive sandbox.",
+        "Beyond the core pursuit gameplay, Jailbreakgame features an expansive economy with over 100 customizable supercars, helicopters, and specialty vehicles, as well as regular seasonal updates, dynamic robbery rotations, and a dedicated player-driven trading hub. Whether you are grinding millions in cash solo or teaming up with a squad, our wiki provides complete guides, vehicle tier lists, and up-to-date codes."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Badimo"
         },
         {
           "label": "Platform",
@@ -141,158 +135,247 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Action / Cops & Robbers"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Total Visits",
+          "value": "7B+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Vehicles",
+          "value": "100+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Updates",
+          "value": "Regular"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Jailbreak Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Jailbreakgame Wiki",
+      "description": "Master the open-world cops and robbers experience with essential guides, active codes, vehicle tier lists, robbery walkthroughs, and update news.",
       "modules": [
         {
           "order": 1,
-          "name": "Jailbreak Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/jailbreak-codes",
-          "displayType": "code-box",
+          "name": "Jailbreakgame Beginner Guide",
+          "description": "A starter guide covering the core gameplay loop, choosing Criminal or Police roles, escaping prison, earning cash, and understanding the open-world map. This module helps new players quickly learn the most important mechanics and progression paths.",
+          "href": "/guide/jailbreakgame-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Spawn in prison cells and sneak through the sewer tunnels or punch electrical boxes to escape."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Locate a free starter vehicle like the Camaro or pickup truck to reach the nearest criminal base."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Acquire firearms and watch dynamic robbery icons to hit open venues like the Bank or Jewelry Store."
+            },
+            {
+              "label": "4",
+              "detail": "Deposit stolen loot at the Volcano or Rising City Criminal Base to bank cash and evade arrest."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/jailbreak-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Jailbreakgame Codes",
+          "description": "A searchable section for active and expired promotional codes, explaining how players can redeem rewards and where official code announcements appear. This targets high-volume searches related to free cash and update rewards.",
+          "href": "/codes/jailbreakgame-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "BigMac8241",
+              "detail": "Redeem for $555 Free Cash",
+              "badge": "Active"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "YoutubeNoobFreak",
+              "detail": "Unlock Exclusive Noobfreak Tire Cosmetic",
+              "badge": "Active"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "YoutubeHelloItsVG",
+              "detail": "Unlock Exclusive HelloItsVG Tire Cosmetic",
+              "badge": "Active"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/jailbreak-tier-list",
+          "name": "Jailbreakgame Vehicles Guide",
+          "description": "A vehicle database and guide covering popular cars, helicopters, planes, speed-focused vehicles, and transportation choices for different play styles. Players searching for the fastest or best vehicles can compare options here.",
+          "href": "/progression/jailbreakgame-tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Volt Bike & Roadster - Instant acceleration, tight handling, and top-tier heist grinding efficiency."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Eclaire & Blackhawk - High top speed highway cruiser and 8-seat missile helicopter with Cargo Ship utility."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Stallion & Surus - Reliable mid-game sports options with good price-to-performance for grinding."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Camaro & Pickup Truck - Free and budget starter rides for early prison escapes and basic transit."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/jailbreak-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Jailbreakgame Robberies Guide",
+          "description": "A detailed guide explaining robbery locations, requirements, strategies, and reward systems. This module targets players looking for ways to earn cash efficiently and improve Criminal gameplay.",
+          "href": "/mechanics/jailbreakgame-heist",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Bank",
+              "detail": "Classic vault breach requiring a keycard; beware of floor lasers and responding police officers."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Jewelry",
+              "detail": "Punch display cases and dodge moving security lasers on multiple floors for quick gems."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "PowerPlant",
+              "detail": "Solve the wire puzzle and race against time before uranium value decays on the way to base."
+            },
+            {
+              "label": "Museum",
+              "detail": "Co-op puzzle robbery with dinosaur bones and precious artifacts requiring dual lever pulls."
+            },
+            {
+              "label": "Casino",
+              "detail": "Crack vault codes, dodge laser fields, and hack security terminals for high-tier payouts."
+            },
+            {
+              "label": "Train",
+              "detail": "Board moving passenger and cargo trains to snag luxury briefcases and military crates."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/jailbreak-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Jailbreakgame Weapons Guide",
+          "description": "A weapon overview covering available weapons, combat situations, and useful tips for Police and Criminal players. It helps users compare equipment choices and improve PvP performance.",
+          "href": "/items/jailbreakgame-weapons",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Flintlock",
+              "detail": "Deals a massive 60 burst damage per shot, making it the premier alpha-strike weapon in duels."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Shotgun",
+              "detail": "High spread damage in close-quarters indoor shootouts like bank vaults and jewelry corridors."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Sniper",
+              "detail": "Long-range precision rifle scaling up to 80 damage at maximum distance against fleeing targets."
+            },
+            {
+              "label": "AK-47",
+              "detail": "Reliable automatic rifle offering sustained damage per second for mid-range skirmishes."
+            },
+            {
+              "label": "Plasma",
+              "detail": "Specialized pistol designed to pierce through defensive force fields and disrupt campers."
+            },
+            {
+              "label": "Revolver",
+              "detail": "Pinpoint sidearm delivering 25 damage per hit with swift reload and high handling."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/jailbreak-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Jailbreakgame Updates",
+          "description": "A timeline of major updates, seasons, events, new vehicles, map changes, and gameplay additions. This section captures users searching for the latest Jailbreak news and update details.",
+          "href": "/progression/jailbreakgame-update",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Seasons",
+              "detail": "Seasonal contract resets introducing exclusive limited-time vehicles, cosmetics, and XP rewards."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Vehicles",
+              "detail": "Regular additions of supercars, revamped vehicle models, suspension tweaks, and drift mechanics."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Robberies",
+              "detail": "Dynamic robbery rotations and updated security puzzle layouts to keep grinding fresh."
+            },
+            {
+              "label": "Balance",
+              "detail": "Periodic weapon stat adjustments, taser cooldown changes, and bounty calculation balance patches."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Jailbreakgame Maps Guide",
+          "description": "A map resource showing important locations, landmarks, robbery areas, police facilities, and useful routes. It supports searches from players who need navigation help and strategic locations.",
+          "href": "/maps/jailbreakgame-map",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Prison",
+              "detail": "Central spawn facility featuring cell blocks, sewer tunnels, police armory, and yard watchtowers."
+            },
+            {
+              "label": "RisingCity",
+              "detail": "Densely packed urban center containing the Bank, Jewelry Store, and multiple criminal hideouts."
+            },
+            {
+              "label": "CrownCity",
+              "detail": "Modern luxury district featuring high-rise penthouses, coastal docks, and the Casino."
+            },
+            {
+              "label": "Desert",
+              "detail": "Expansive outer region housing the Power Plant, Military Base, and long-distance highway circuits."
+            },
+            {
+              "label": "Volcano",
+              "detail": "Primary criminal sanctuary where outlaws safely deliver stolen loot and purchase high-end rides."
+            },
+            {
+              "label": "Ocean",
+              "detail": "Coastal waters and offshore locations hosting the Cargo Ship and Oil Rig heist operations."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Jailbreakgame Community",
+          "description": "A community hub collecting official social channels, developer announcements, and video resources. It helps players follow new content, events, and creator updates.",
+          "href": "/guide/jailbreakgame-reddit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reddit",
+              "detail": "Community-driven subreddit for trading value discussions, vehicle testing, and tactical debate."
+            },
+            {
+              "label": "Badimo",
+              "detail": "Official developer Twitter and announcements for upcoming seasonal patches and code drops."
+            },
+            {
+              "label": "YouTube",
+              "detail": "Creator video breakdowns showcasing robbery routes, vehicle speed comparisons, and update teasers."
+            },
+            {
+              "label": "Trading",
+              "detail": "Dedicated in-game trading island and community hubs to negotiate rare limited vehicle swaps."
             }
           ]
         }
@@ -300,32 +383,32 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Jailbreak.",
+      "description": "Quick answers to common questions about Jailbreakgame mechanics, progression, and updates.",
       "items": [
         {
-          "question": "What is Jailbreak?",
-          "answer": "Jailbreak is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Jailbreakgame?",
+          "answer": "Jailbreakgame is a free-to-play open-world cops and robbers action game on Roblox created by Badimo. Players choose between escaping prison as criminals to pull off multi-building heists or enlisting as police officers to patrol the city and arrest fugitives."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I redeem promo codes in Jailbreakgame?",
+          "answer": "To redeem codes in Jailbreakgame, locate an in-game ATM terminal at the Bank, Gas Station, or Police Station, interact with the screen, type in an active code, and click Redeem to receive free cash and cosmetics."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What is the fastest vehicle in Jailbreakgame?",
+          "answer": "The Torpedo and Concept boast the highest top speeds in Jailbreakgame, while the Volt Bike and Roadster offer the best acceleration and handling for daily heist grinding."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How does the dynamic robbery system work in Jailbreakgame?",
+          "answer": "In Jailbreakgame, up to four major robbery locations can remain open simultaneously. As players complete heists or timers expire, queued venues unlock automatically across the map."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Can you play Jailbreakgame solo or with friends?",
+          "answer": "Jailbreakgame supports both solo play and team squad gameplay. Solo players can grind cash efficiently, while squads can coordinate multi-passenger helicopter heists and split rewards."
         }
       ]
     },
     "finalCta": {
-      "title": "Ready to Master Jailbreak?",
+      "title": "Ready to Master Jailbreakgame?",
       "description": "From your first prison escape to high-stakes bank heists, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
