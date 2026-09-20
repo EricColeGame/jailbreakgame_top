@@ -6,7 +6,15 @@
     "description": "Complete Jailbreakgame Wiki with Roblox codes, vehicle guides, heist strategies, police and criminal tips, updates, maps, and gameplay information for players.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "controls": "Controls",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "maps": "Maps",
+    "progression": "Progression"
+  },
   "home": {
     "meta": {
       "title": "Jailbreak Wiki - Codes, Vehicles, Heists & Updates",
@@ -414,7 +422,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -450,5 +457,33 @@
     "buildGuide": "Weapon Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "codes": {
+    "overviewTitle": "jailbreakgame Codes",
+    "overviewDescription": "Find the latest active promo codes, redeem steps, and cash rewards for jailbreakgame."
+  },
+  "guide": {
+    "overviewTitle": "jailbreakgame Guides",
+    "overviewDescription": "Essential beginner tips, escape routes, and gameplay strategies for jailbreakgame."
+  },
+  "controls": {
+    "overviewTitle": "jailbreakgame Controls",
+    "overviewDescription": "Complete keybindings and input guides for PC, mobile, and console in jailbreakgame."
+  },
+  "mechanics": {
+    "overviewTitle": "jailbreakgame Mechanics",
+    "overviewDescription": "Master heists, criminal bounties, police arrests, and multiplayer mechanics in jailbreakgame."
+  },
+  "items": {
+    "overviewTitle": "jailbreakgame Items",
+    "overviewDescription": "Explore weapons, vehicles, gamepasses, and trading systems in jailbreakgame."
+  },
+  "maps": {
+    "overviewTitle": "jailbreakgame Maps",
+    "overviewDescription": "Discover world map locations, secret bases, robbery spots, and events in jailbreakgame."
+  },
+  "progression": {
+    "overviewTitle": "jailbreakgame Progression",
+    "overviewDescription": "Vehicle rankings, gamepass value analysis, tier lists, and update logs for jailbreakgame."
   }
 }

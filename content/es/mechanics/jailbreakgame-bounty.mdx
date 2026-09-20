@@ -1,0 +1,157 @@
+export const metadata = {
+  title: "Guía de Recompensas en Jailbreakgame: Mecánicas, Valores y Consejos de Caza",
+  description: "Domina el sistema de recompensas de jailbreakgame con los límites actuales, tasas de robos, reglas anti-combat logging y mejores estrategias para policías y criminales.",
+  category: "mechanics",
+  date: "2026-09-20",
+};
+
+Cada escape de alto riesgo en el sandbox de mundo abierto de Badimo se reduce al riesgo, la recompensa y el precio por tu cabeza. Si quieres obtener ganancias masivas como agente de la ley o ganar credibilidad callejera en las clasificaciones del bajo mundo criminal, dominar el sistema de **jailbreakgame bounty** (recompensas) es esencial. Ya sea que estés cazando a los forajidos más notorios o evadiendo las esposas, comprender cómo se acumula una **jailbreakgame bounty** impacta directamente en tus ingresos globales.
+
+En este análisis a fondo, desglosamos cómo funciona el escalado de recompensas, los límites máximos vigentes en las actualizaciones recientes, cómo los oficiales de policía pueden maximizar sus pagos por arresto y cómo los criminales pueden proteger su progreso ganado con esfuerzo sin ser acorralados.
+
+---
+
+## ¿Qué es una Recompensa en Jailbreak? Explicación de las Mecánicas Principales
+
+En su base, una recompensa representa una retribución dinámica colocada sobre la cabeza de un jugador por cometer actividades ilegales en el mapa. Al escapar de la prisión y convertirte en criminal, tus infracciones comienzan a sumar puntos. Este valor se muestra directamente en pantalla debajo de tu contador de dinero.
+
+Para los criminales, acumular una recompensa sirve tanto de insignia de honor como de peligroso faro. Para los oficiales de policía, las recompensas representan la fuente de ingresos más lucrativa del juego, aparte de las bonificaciones básicas por arresto. Cuando un oficial de la ley arresta a un jugador buscado, el juego transfiere la suma total de la recompensa directamente a la cartera de ese oficial, seguido de un anuncio global en el chat del servidor.
+
+Es importante señalar que los criminales no pierden su propio dinero ahorrado al ser arrestados. El juego no confisca tus fondos personales; más bien, el policía recibe un pago equivalente generado por el servidor en función de tu historial de delitos.
+
+### Cómo Han Evolucionado las Recompensas a lo Largo del Tiempo
+
+Los desarrolladores han reajustado continuamente los límites de recompensa para mantener a ambos equipos competitivos. Las primeras iteraciones presentaban pagos máximos más bajos, pero las actualizaciones modernas han elevado significativamente el tope superior.
+
+| Era Principal / Hito del Parche | Límite de Recompensa | ¿Se Pierde por Muerte Accidental? | ¿Bonificación de Sueldo Incluida? |
+| :--- | :--- | :--- | :--- |
+| **Legacy / Primeras Temporadas** | $10,000 | Sí (Se perdía al morir) | Sí (Hasta $300 base) |
+| **Pase de Equilibrio Temporada 18** | $15,000 | No | No (Sueldos eliminados) |
+| **Actualización Evento de Vehículos 2023** | $20,000 | No | No |
+| **Evento en Vivo 2026 y Parche Actual** | $25,000 | No | No |
+
+Antes de las mejoras clave en la calidad de vida del juego, caer en láseres, pisar las vías del tren o morir por peligros ambientales borraba toda tu recompensa sin otorgársela a nadie. Hoy en día, las mecánicas son mucho más indulgentes para los criminales: tu recompensa acumulada persiste tras muertes no causadas por la policía y solo se reinicia cuando eres arrestado exitosamente.
+
+---
+
+## Cómo Acumulan Recompensas los Criminales
+
+El medidor de búsqueda de un jugador aumenta cada vez que completa un acto delictivo o elimina a miembros de las fuerzas del orden. Sin embargo, no todas las acciones otorgan el mismo incremento de recompensa. Los atracos de alta seguridad, los acertijos complejos y el combate defensivo contra policías agresivos proporcionan aumentos sustanciales a tu total.
+
+### Valores de Recompensa por Crimen y Acción
+
+El siguiente desglose destaca cómo premia el juego las infracciones criminales en servidores públicos estándar.
+
+| Infracción / Tipo de Crimen | Recompensa Añadida en Servidor Público | Notas y Excepciones |
+| :--- | :--- | :--- |
+| **Matar a un Oficial de Policía** | +$250 | Otorgado por armas de fuego, cohetes y granadas |
+| **Eliminar Policía con Misiles de Vehículo** | +$0 | Excluido para evitar el farmeo con armas vehiculares |
+| **Robo al Banco de Rising City** | +$1,500 | La apertura de la bóveda debe ser exitosa |
+| **Asistencia / Entrega del Museo** | Variable | Escala según los compañeros ayudados y el valor de la bolsa |
+| **Apertura de Bóveda del Tren de Carga** | Variable | Requiere detonación exitosa de C4 y escape |
+| **Rotura de Cristales del Tren de Pasajeros** | Impulso pequeño | Objetivos rápidos de entrada y salida |
+| **Derrotar al Jefe de la Mansión (Robo a la Mansión)** | +$2,000 | Crédito compartido por derribar al jefe |
+
+*Nota: En los servidores VIP privados, los aumentos de recompensa suelen reducirse en varios robos para preservar el equilibrio del servidor y prevenir la inflación económica.*
+
+Curiosamente, los informes de la comunidad y el análisis del juego revelan que los policías que participan en la pelea contra el jefe de la Mansión también pueden ganar el crédito de recompensa de +$2,000. Cuando un oficial ayuda a derrotar al CEO de la Mansión, su interfaz muestra el indicador de recompensa rojo sobre el minimapa: un remanente visual de las mecánicas compartidas del combate.
+
+---
+
+## Caza Policial: El Tablero de Recompensas y Pagos por Arresto
+
+Para los oficiales que buscan acumular dinero rápidamente, patrullar sin rumbo el patio de la prisión es un error de novatos. Los agentes de alto nivel dependen del Tablero de Recompensas para cazar objetivos de forma estratégica.
+
+El Tablero de Recompensas está instalado dentro de las principales comisarías de policía en todo el mapa. Escanea automáticamente el servidor y muestra a los seis criminales más buscados junto con su valor monetario actual.
+
+```
++------------------------------------------------------+
+|             TOP WANTED CRIMINALS IN SERVER           |
+|                                                      |
+|  1. OutlawRunner99  ..........  $25,000 [MAX CAP]    |
+|  2. NitroDrifter    ..........  $18,500              |
+|  3. VaultCracker    ..........  $12,000              |
+|  4. ShadowEscape    ..........  $8,500               |
+|  5. CityBandit      ..........  $5,250               |
+|  6. SirenDodger     ..........  $3,100               |
++------------------------------------------------------+
+```
+
+### Mecánicas Anti-Combat Logging y de Proximidad
+
+En etapas anteriores del juego, los delincuentes salían instantáneamente del servidor o reiniciaban a su personaje en cuanto un policía se acercaba para evitar que cobrara la recompensa. Los desarrolladores implementaron reglas estrictas de proximidad para contrarrestar el combat logging y garantizar que los policías reciban su recompensa por el esfuerzo.
+
+| Situación / Acción Criminal | Requisito de Proximidad Policial | Resultado |
+| :--- | :--- | :--- |
+| **Arresto Estándar con Esposas** | Rango de contacto inmediato | El oficial recibe recompensa completa + tarifa de arresto |
+| **El Criminal Reinicia su Personaje** | Oficial cercano o trabado en combate | El oficial más cercano reclama la recompensa completa |
+| **El Criminal Cambia de Equipo** | Oficial cercano | El oficial más cercano reclama la recompensa completa |
+| **El Criminal Abandona el Servidor** | Oficial cercano | El oficial más cercano reclama la recompensa completa |
+| **Despliegue de Bandas de Clavos** | Neumáticos del criminal pinchados por clavos | El oficial se lleva el crédito si le sigue un arresto |
+| **Enfrentamiento en Combate (Taser/Disparos)** | Reinicio activado dentro del temporizador de combate | El último oficial atacante recibe el pago |
+
+Estos sistemas de proximidad aseguran que los agentes constantes reciban su compensación incluso si los objetivos evasivos intentan explotar los menús del personaje. Los parches y notas oficiales se pueden consultar con frecuencia en la [Roblox Jailbreak Game Page](https://www.roblox.com/games/606849621/Jailbreak), donde se publican habitualmente los ajustes de combate.
+
+---
+
+## Comparación Estratégica: Jugar por Recompensa vs. Jugar por Dinero de Atracos
+
+Los jugadores principiantes a menudo confunden el dinero obtenido por robos con el saldo de su recompensa. Aunque ambos aumentan mientras juegas, cumplen funciones fundamentalmente distintas en tu ciclo económico.
+
+| Característica / Factor | Pago de Robo (Dinero Directo) | Saldo de Recompensa |
+| :--- | :--- | :--- |
+| **¿Quién se lo Queda?** | El criminal | El oficial de policía que efectúa el arresto |
+| **¿Dónde se Almacena?** | Banco personal / Cartera | Rastreador de la sesión del servidor |
+| **Impacto al ser Arrestado** | Conservas el dinero ganado en tu cartera | Se reinicia a $0 al ser arrestado |
+| **Límite Máximo** | Ilimitado en la cuenta global | Tope de $25,000 por racha |
+| **Visibilidad** | Privado para el jugador | Visible públicamente en el Tablero de Recompensas |
+| **Propósito de Juego** | Comprar autos, texturas y artículos | Medir la supervivencia en la sesión y motivar a cazadores |
+
+---
+
+## Tácticas de Supervivencia para Criminales con Alta Recompensa
+
+Alcanzar el tope de recompensa de $25,000 te convierte en el objetivo primordial de cada policía de la sala. Si quieres mantener con vida una racha alta sin pasar la mitad de tu sesión en una celda, sigue estas reglas esenciales:
+
+### 1. Evita las salidas predecibles con cuellos de botella
+El Banco de Rising City y la Joyería cuentan con pasillos de escape fijos. Los policías veteranos colocan bandas de clavos, activan campos de fuerza o apuntan con tasers justo fuera de estas puertas. Equípate siempre con granadas de humo o planeadores para superar emboscadas a nivel del suelo.
+
+### 2. Monitorea tu posición en el Tablero de Recompensas
+En cuanto tu total supere entre $5,000 y $8,000, asume que aparecerás en el tablero de las comisarías. Revisa la lista de jugadores con regularidad para ver si hay policías activos. Si un vehículo aéreo (como el Black Hawk o el Little Bird) sobrevuela tu zona de robo, reubícate de inmediato.
+
+### 3. Mantén la movilidad vehicular
+Nunca dejes tu vehículo de escape sobre una carretera despejada y sin cobertura. A los policías les encanta usar rifles de francotirador o bandas de clavos para inutilizar neumáticos. Estaciona detrás de estructuras o terreno natural, y asegúrate de tener mejorado el motor del vehículo para dejar atrás a tus perseguidores.
+
+---
+
+## Tácticas Policiales: Caza Eficiente de Recompensas
+
+Arrestar objetivos de alto valor exige mucho más que perseguir puntos en un radar. Aquí tienes una configuración optimizada para cazadores de recompensas que busquen superar los $50,000+ por hora enfocándose estrictamente en las listas de criminales buscados:
+
+| Ranura de Equipamiento | Equipo Recomendado | Propósito Táctico |
+| :--- | :--- | :--- |
+| **Arma Principal** | Rifle o Escopeta | Ruptura rápida de escudos y supresión a corta distancia |
+| **Herramienta de Aturdimiento** | Taser | Detiene a criminales en carrera a media distancia |
+| **Vehículo de Movilidad** | Little Bird o Roadster | Respuesta veloz a alarmas de banco y aterrizaje ágil |
+| **Utilidad Táctica** | Bandas de clavos y Planeador | Corta escapes por carretera y permite accesos aéreos rápidos |
+
+### Protocolo de Caza
+1. **Inspección de Comisaría:** Aparece en un precinto de la ciudad, revisa el Tablero de Recompensas e identifica a los dos objetivos principales.
+2. **Ubicación de Atracos:** Comprueba qué robos están abiertos. Si el criminal con mayor recompensa se encuentra cerca del Museo o de la Central Eléctrica, prepara una ruta de intercepción cerca del punto de entrega de la Base del Volcán.
+3. **Maniobra de Intervención y Taser:** Al perseguir vehículos, dispara primero a los neumáticos o despliega bandas de clavos por delante de su trayectoria. En cuanto pierdan los neumáticos, acorta la distancia de inmediato con el taser en mano.
+
+---
+
+## Preguntas Frecuentes Sobre las Recompensas de Jailbreak
+
+### ¿Qué ocurre con mi jailbreakgame bounty si me desconecto?
+Si te desconectas mientras un policía está cerca de ti o atacándote activamente en combate, el sistema anti-combat logging transferirá tu recompensa íntegra a dicho oficial. Si te desconectas en un estado tranquilo sin policías en tu perímetro inmediato, tu racha actual simplemente se reiniciará al abandonar el servidor.
+
+### ¿Los poseedores del gamepass VIP obtienen recompensas más altas?
+El pase VIP incrementa las recompensas base de los robos y desbloquea cosméticos de vehículos exclusivos, pero no aumenta artificialmente el límite de tu recompensa máxima por encima del tope universal de $25,000 por servidor.
+
+### ¿Por qué eliminé a un policía y no aumentó mi recompensa?
+Si abates a un oficial de policía usando misiles de vehículos o ciertos métodos pasivos por colisión, el juego no sumará la bonificación estándar de $250. Debes abatir al oficial con armamento de mano (pistolas, escopetas, rifles, lanzacohetes o granadas) para que la infracción quede registrada.
+
+### ¿Pueden los policías cobrar las recompensas de otros policías?
+No. Los oficiales de policía no pueden arrestar a miembros de su propio equipo. Aunque un policía consiga puntos temporales de recompensa mediante batallas conjuntas contra jefes como en el robo a la Mansión, ese valor no puede ser reclamado por otro policía a menos que dicho jugador se cambie de bando a criminal o prisionero primero.
