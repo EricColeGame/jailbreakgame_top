@@ -1,1 +1,465 @@
-{}
+{
+  "site": {
+    "name": "Jailbreakgame Wiki",
+    "shortName": "Jailbreakgame",
+    "tagline": "Guias Completos, Códigos, Veículos e Golpes",
+    "description": "Wiki completa de Jailbreakgame com códigos de Roblox, guias de veículos, estratégias de assaltos, dicas de polícia e criminosos, atualizações e mapas para jogadores.",
+    "legalNotice": "Wiki não oficial feita por fãs. Criada por jogadores, para jogadores."
+  },
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guias",
+    "controls": "Controles",
+    "mechanics": "Mecânicas",
+    "items": "Itens",
+    "maps": "Mapas",
+    "progression": "Progressão"
+  },
+  "home": {
+    "meta": {
+      "title": "Jailbreak Wiki - Códigos, Veículos, Golpes e Atualizações",
+      "description": "Wiki completa de Jailbreak com códigos Roblox, guias de veículos, estratégias de assaltos, dicas para policiais e criminosos, atualizações e mapas."
+    },
+    "hero": {
+      "eyebrow": "Simulador de Polícia e Crime em Mundo Aberto no Roblox",
+      "title": "Jailbreak Wiki",
+      "description": "Jailbreak é um famoso jogo de ação em mundo aberto no Roblox onde você escolhe ser criminoso ou policial, realiza grandes assaltos, coleciona veículos, ganha dinheiro e explora uma vasta cidade.",
+      "stats": [
+        "Mais de 7B de Visitas",
+        "Mais de 100 Veículos",
+        "0 Códigos Ativos",
+        "Atualizações Semanais"
+      ],
+      "primaryCta": "Guia para Iniciantes",
+      "secondaryCta": "Tier List de Veículos",
+      "tertiaryCta": "Códigos Ativos",
+      "videoLabel": "Trailer Oficial"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Explorar Todos os Guias",
+      "viewAll": "Ver Todos"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada em Jailbreakgame",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Aprenda os controles básicos, escape do pátio da prisão, entenda os sinais de radar e comece a lucrar em Jailbreakgame."
+        },
+        {
+          "number": "2",
+          "title": "Prisioneiro vs Polícia",
+          "description": "Escolha entre planejar assaltos de alto risco como Criminoso ou prender fugitivos e coletar recompensas como Policial."
+        },
+        {
+          "number": "3",
+          "title": "Melhores Rotas de Assalto",
+          "description": "Otimize sua rota de dinheiro revezando entre o Banco, Joalheria, Museu e Usina Elétrica."
+        },
+        {
+          "number": "4",
+          "title": "Todos os Códigos Ativos",
+          "description": "Resgate códigos promocionais nos caixas eletrônicos da cidade para ganhar dinheiro instantâneo e cosméticos exclusivos."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Guias em Destaque de Jailbreakgame",
+      "quickLinks": [
+        "Guia para Iniciantes",
+        "Códigos Ativos",
+        "Tier List de Veículos",
+        "Guia de Assaltos"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Aprenda controles básicos, rotas de fuga e como ganhar dinheiro no início.",
+          "href": "/guide/jailbreakgame-beginner-guide"
+        },
+        {
+          "badge": "Códigos",
+          "title": "Códigos Ativos",
+          "description": "Todos os códigos promocionais válidos para dinheiro grátis e cosméticos.",
+          "href": "/codes/jailbreakgame-codes"
+        },
+        {
+          "badge": "Veículos",
+          "title": "Tier List de Veículos",
+          "description": "Classificação de velocidade máxima, aceleração e custo-benefício de todos os veículos.",
+          "href": "/progression/jailbreakgame-tier-list"
+        },
+        {
+          "badge": "Assaltos",
+          "title": "Roubos e Assaltos",
+          "description": "Visão geral completa dos lucros no banco, joalheria, usina e museu.",
+          "href": "/mechanics/jailbreakgame-heist"
+        },
+        {
+          "badge": "Armas",
+          "title": "Guia de Armas",
+          "description": "Estatísticas, dano por rajada e classificações de combate de todas as armas de fogo.",
+          "href": "/items/jailbreakgame-weapons"
+        },
+        {
+          "badge": "Atualizações",
+          "title": "Últimas Atualizações",
+          "description": "Recompensas de temporada, ajustes de equilíbrio e novidades.",
+          "href": "/progression/jailbreakgame-update"
+        },
+        {
+          "badge": "Mapas",
+          "title": "Mapa e Locais",
+          "description": "Explore pontos de referência, esconderijos de criminosos e postos militares.",
+          "href": "/maps/jailbreakgame-map"
+        },
+        {
+          "badge": "Comunidade",
+          "title": "Comunidade e Reddit",
+          "description": "Valores de troca, dicas táticas e discussões de jogadores experientes.",
+          "href": "/guide/jailbreakgame-reddit"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Jailbreakgame?",
+      "paragraphs": [
+        "Jailbreakgame é uma emblemática experiência de ação e perseguição entre policiais e ladrões em mundo aberto no Roblox, criada pela Badimo. Os jogadores mergulham em uma cidade dinâmica onde podem escolher sua lealdade como Policiais cumpridores da lei ou Criminosos audaciosos. Planeje assaltos a bancos, desvie de redes de laser, fuja de perseguições em alta velocidade ou garanta a justiça interceptando crimes e prendendo foragidos.",
+        "Além da jogabilidade central de perseguições, Jailbreakgame apresenta uma economia rica com mais de 100 supercarros, helicópteros e veículos especiais customizáveis, além de atualizações de temporada frequentes, rotações dinâmicas de assaltos e um hub de trocas gerenciado pelos jogadores. Seja acumulando milhões sozinho ou jogando em equipe, nossa wiki fornece guias completos, tier lists e códigos atualizados."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "Badimo"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Mundo Aberto / Ação"
+        },
+        {
+          "label": "Faixa Etária",
+          "value": "Todas as idades"
+        }
+      ]
+    },
+    "modules": [
+      {
+        "order": 1,
+        "name": "Guia de Códigos de Jailbreakgame",
+        "description": "Uma central dedicada a códigos de resgate ativos e expirados, com orientações de uso, notas de recompensas e alertas de expiração. Ajuda os jogadores a garantir dinheiro bônus e cosméticos sem perder prazos.",
+        "href": "/codes/jailbreakgame-codes",
+        "displayType": "card-list",
+        "highlights": [
+          {
+            "label": "Status",
+            "detail": "Atualmente não há códigos promocionais ativos; os desenvolvedores usam eventos sazonais no jogo."
+          },
+          {
+            "label": "Resgate",
+            "detail": "Use os caixas eletrônicos (ATMs) localizados nos bancos, postos de gasolina ou delegacias."
+          },
+          {
+            "label": "Recompensas",
+            "detail": "Códigos anteriores concediam dinheiro extra imediato e envelopamentos de veículos exclusivos."
+          },
+          {
+            "label": "Verificação",
+            "detail": "Nossa equipe confere semanalmente anúncios oficiais e redes sociais da Badimo."
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "name": "Guia para Iniciantes de Jailbreakgame",
+        "description": "Um guia passo a passo cobrindo fuga da prisão, seleção de equipe, geração de dinheiro inicial e rotas de viagem seguras. Ideal para novos jogadores que precisam de uma transição tranquila para o mundo aberto.",
+        "href": "/guide/jailbreakgame-beginner-guide",
+        "displayType": "card-list",
+        "highlights": [
+          {
+            "label": "Rotas de Fuga",
+            "detail": "Esgotos subterrâneos, cercas perfuradas e fuga pelo duto de ventilação do pátio prisional."
+          },
+          {
+            "label": "Equipes",
+            "detail": "Compare os ganhos de assaltos como criminoso contra salários e recompensas como policial."
+          },
+          {
+            "label": "Primeiro Carro",
+            "detail": "Pegue o Camaro grátis antes de juntar dinheiro para veículos mais ágeis como o Model3 ou Challenger."
+          },
+          {
+            "label": "Armas Iniciais",
+            "detail": "Garanta a Pistola e a Espingarda em postos policiais para se proteger durante fugas."
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "name": "Guia de Controles de Jailbreakgame",
+        "description": "Instruções claras de comandos para PC, consoles e dispositivos móveis, além de ajustes recomendados de sensibilidade e configurações de veículos para melhorar a pilotagem e o combate.",
+        "href": "/controls/jailbreakgame-controls",
+        "displayType": "card-list",
+        "highlights": [
+          {
+            "label": "Movimentação",
+            "detail": "WASD para andar, Barra de Espaço para pular, C para agachar/rastejar e Shift para correr."
+          },
+          {
+            "label": "Veículos",
+            "detail": "Teclas de aceleração, E para entrar ou sair, e controles táteis adaptados em dispositivos móveis."
+          },
+          {
+            "label": "Combate",
+            "detail": "Botão esquerdo para atirar, Botão direito para mirar, R para recarregar e atalhos rápidos de equipamentos."
+          },
+          {
+            "label": "Consoles",
+            "detail": "Mapeamento completo para controles do Xbox e PlayStation com mira assistida."
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "name": "Guia de Assaltos e Mecânicas",
+        "description": "Análise profunda das mecânicas do jogo, incluindo ciclos de assaltos a edifícios, procedimentos de prisão por policiais, caça a recompensas e sistemas de equipe.",
+        "href": "/mechanics/jailbreakgame-heist",
+        "displayType": "card-list",
+        "highlights": [
+          {
+            "label": "Banco",
+            "detail": "Diferentes variantes de cofre com armadilhas de laser, luzes de movimento e fuga de helicóptero."
+          },
+          {
+            "label": "Joalheria",
+            "detail": "Subida com parkour vertical, quebra de vitrines de vidro e descida cautelosa pelo telhado."
+          },
+          {
+            "label": "Usina Elétrica",
+            "detail": "Puzzles de circuitos sob pressão onde o valor do urânio cai conforme o tempo de entrega aumenta."
+          },
+          {
+            "label": "Museu",
+            "detail": "Assalto cooperativo em dupla que exige quebra-cabeças simultâneos e fuga com asa-delta."
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "name": "Guia de Veículos e Armas",
+        "description": "Catálogo detalhado de itens com supercarros, aeronaves, armas de fogo e passes de jogo, com preços, atributos e comparações de utilidade.",
+        "href": "/items/jailbreakgame-weapons",
+        "displayType": "card-list",
+        "highlights": [
+          {
+            "label": "Supercarros",
+            "detail": "Hipercarros velozes como Chiron, Roadster, Concept e Torpedo para fugas impecáveis."
+          },
+          {
+            "label": "Aéreos",
+            "detail": "Black Hawk, Drone e Little Bird para transporte aéreo rápido de equipes e cargas."
+          },
+          {
+            "label": "Armamento",
+            "detail": "Rifle de Assalto, Sniper, Espingarda, Rifle de Plasma e Lançador de Foguetes."
+          },
+          {
+            "label": "Gamepasses",
+            "detail": "Bolsa de Mochila Maior, Garagem Móvel e Passe de SWAT para vantagens duradouras."
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "name": "Guia de Progressão e Atualizações",
+        "description": "Focado no ganho de dinheiro, rotas ideais de assalto, passes de temporada e notas de atualização recentes para ajudar jogadores a evoluir de forma eficiente.",
+        "href": "/progression/jailbreakgame-tier-list",
+        "displayType": "card-list",
+        "highlights": [
+          {
+            "label": "Rotas de Farm",
+            "detail": "Ciclo constante entre Usina, Joalheria, Banco e Museu para lucros superiores a 150k por hora."
+          },
+          {
+            "label": "Temporadas",
+            "detail": "Contratos diários e semanais para desbloquear veículos de edição limitada e cosméticos exclusivos."
+          },
+          {
+            "label": "Customização",
+            "detail": "Turbos nível 5, freios aprimorados, ajustes de suspensão e física precisa de drifting."
+          },
+          {
+            "label": "Assaltos",
+            "detail": "Rotações dinâmicas de assaltos e layouts renovados de armadilhas para renovar o grind."
+          },
+          {
+            "label": "Equilíbrio",
+            "detail": "Ajustes periódicos no dano de armas, recarga do taser e fórmulas de recompensa por captura."
+          }
+        ]
+      },
+      {
+        "order": 7,
+        "name": "Guia de Mapas de Jailbreakgame",
+        "description": "Recurso cartográfico com pontos de interesse, marcos urbanos, locais de roubo, delegacias e rotas estratégicas para orientar jogadores em navegação e rotas de fuga.",
+        "href": "/maps/jailbreakgame-map",
+        "displayType": "card-list",
+        "highlights": [
+          {
+            "label": "Prisão",
+            "detail": "Instalação central de spawn com blocos de celas, esgotos, armaria policial e torres de vigia."
+          },
+          {
+            "label": "RisingCity",
+            "detail": "Centro urbano denso abrigando o Banco, a Joalheria e diversos esconderijos de criminosos."
+          },
+          {
+            "label": "CrownCity",
+            "detail": "Distrito moderno de luxo com coberturas residenciais, docas litorâneas e o Cassino."
+          },
+          {
+            "label": "Deserto",
+            "detail": "Área externa espaçosa que abriga a Usina Elétrica, Base Militar e pistas de alta velocidade."
+          },
+          {
+            "label": "Vulcão",
+            "detail": "Santuário criminoso principal para entrega segura de dinheiro e compra de supercarros."
+          },
+          {
+            "label": "Oceano",
+            "detail": "Águas costeiras e plataformas marítimas com operações no Navio de Carga e Plataforma de Petróleo."
+          }
+        ]
+      },
+      {
+        "order": 8,
+        "name": "Comunidade de Jailbreakgame",
+        "description": "Central da comunidade reunindo canais sociais oficiais, comunicados de desenvolvedores e vídeos para acompanhar novidades, eventos e criadores de conteúdo.",
+        "href": "/guide/jailbreakgame-reddit",
+        "displayType": "card-list",
+        "highlights": [
+          {
+            "label": "Reddit",
+            "detail": "Subreddit ativo da comunidade com discussões sobre valores de troca, testes e táticas."
+          },
+          {
+            "label": "Badimo",
+            "detail": "Twitter oficial dos criadores com anúncios de passes de temporada e lançamentos de códigos."
+          },
+          {
+            "label": "YouTube",
+            "detail": "Vídeos da comunidade apresentando análises de rotas, testes de velocidade e prévias de novidades."
+          },
+          {
+            "label": "Trocas",
+            "detail": "Ilha de trocas no jogo e servidores dedicados para negociar veículos raros e limitados."
+          }
+        ]
+      }
+    ],
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas para dúvidas comuns sobre mecânicas, progressão e novidades em Jailbreakgame.",
+      "items": [
+        {
+          "question": "O que é Jailbreakgame?",
+          "answer": "Jailbreakgame é um jogo de ação gratuito no Roblox de polícia e ladrão criado pela Badimo. Os jogadores escolhem fugir da prisão e realizar assaltos elaborados ou atuar como policiais patrulhando a cidade e prendendo criminosos."
+        },
+        {
+          "question": "Como resgatar códigos em Jailbreakgame?",
+          "answer": "Para resgatar códigos em Jailbreakgame, dirija-se a um caixa eletrônico (ATM) no Banco, Posto de Gasolina ou Delegacia, interaja com a tela, digite um código ativo e confirme para receber dinheiro e itens bônus."
+        },
+        {
+          "question": "Qual é o veículo mais rápido em Jailbreakgame?",
+          "answer": "O Torpedo e o Concept atingem as maiores velocidades máximas em Jailbreakgame, enquanto a Volt Bike e o Roadster oferecem a melhor aceleração e manobrabilidade para farmar no dia a dia."
+        },
+        {
+          "question": "Como funciona o sistema dinâmico de assaltos em Jailbreakgame?",
+          "answer": "Em Jailbreakgame, até quatro locais principais de roubo podem permanecer abertos ao mesmo tempo. Conforme os jogadores concluem os assaltos ou o tempo expira, novos locais abrem na rotação."
+        },
+        {
+          "question": "É possível jogar Jailbreakgame sozinho ou apenas com amigos?",
+          "answer": "Jailbreakgame oferece suporte total tanto para jogar sozinho quanto em equipe. Jogadores solo podem lucrar com facilidade, enquanto esquadrões coordenam helicópteros e assaltos coletivos."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar Jailbreakgame?",
+      "description": "Da sua primeira fuga de prisão até grandes roubos a bancos, nossa wiki da comunidade traz guias gratuitos e atualizados.",
+      "primary": "Ler o Guia para Iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leituras Relacionadas",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Nenhum guia disponível ainda. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Jailbreak Wiki",
+    "about": "A Jailbreak Wiki é uma central de guias independente criada por fãs, cobrindo rotas de assalto, veículos, armas, códigos e conhecimentos essenciais do jogo para novatos e veteranos.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Jailbreak Wiki. Não afiliado à Badimo ou ao Roblox.",
+    "description": "Simulador de crime e polícia em mundo aberto no Roblox. Escolha seu lado, faça assaltos, colecione carros e explore a cidade.",
+    "playGame": "Jogar Jailbreak no Roblox",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube da Badimo",
+    "vvBuilder": "Guia de Jailbreak",
+    "beginnerGuide": "Guia para Iniciantes",
+    "raceGuides": "Guias de Veículos",
+    "bossGuides": "Guias de Assaltos",
+    "buildGuide": "Guia de Armas",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  },
+  "codes": {
+    "overviewTitle": "Códigos de jailbreakgame",
+    "overviewDescription": "Encontre os códigos promocionais ativos mais recentes, passos para resgate e recompensas em dinheiro de jailbreakgame."
+  },
+  "guide": {
+    "overviewTitle": "Guias de jailbreakgame",
+    "overviewDescription": "Dicas essenciais para iniciantes, rotas de fuga e estratégias de jogabilidade para jailbreakgame."
+  },
+  "controls": {
+    "overviewTitle": "Controles de jailbreakgame",
+    "overviewDescription": "Guia completo de teclas e comandos para PC, celular e console em jailbreakgame."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de jailbreakgame",
+    "overviewDescription": "Domine assaltos, recompensas criminais, prisões policiais e mecânicas multijogador em jailbreakgame."
+  },
+  "items": {
+    "overviewTitle": "Itens de jailbreakgame",
+    "overviewDescription": "Explore armas, veículos, passes de jogo e sistemas de troca em jailbreakgame."
+  },
+  "maps": {
+    "overviewTitle": "Mapas de jailbreakgame",
+    "overviewDescription": "Descubra localizações no mapa mundi, esconderijos secretos, áreas de assalto e eventos em jailbreakgame."
+  },
+  "progression": {
+    "overviewTitle": "Progressão em jailbreakgame",
+    "overviewDescription": "Classificações de veículos, análise de passes de jogo, tier lists e notas de atualização para jailbreakgame."
+  }
+}
