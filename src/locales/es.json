@@ -13,7 +13,9 @@
     "mechanics": "Mecánicas",
     "items": "Objetos",
     "maps": "Mapas",
-    "progression": "Progresión"
+    "progression": "Progresión",
+    "toggleTheme": "Cambiar tema",
+    "menu": "Menú"
   },
   "home": {
     "meta": {

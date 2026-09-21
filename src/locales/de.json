@@ -13,7 +13,9 @@
     "mechanics": "Mechaniken",
     "items": "Gegenstände",
     "maps": "Karten",
-    "progression": "Fortschritt"
+    "progression": "Fortschritt",
+    "toggleTheme": "Design umschalten",
+    "menu": "Menü"
   },
   "home": {
     "meta": {
